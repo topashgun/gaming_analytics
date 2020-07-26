@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a1af58283dca1873882aed47bc2222f",
+    "revision": "78c772027816ab3e2ae4ab304140366a",
     "url": "/gaming_analytics/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gaming_analytics/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "df07fea103bde9fcb70a",
-    "url": "/gaming_analytics/static/css/main.6e69fbc4.chunk.css"
+    "revision": "1d2a9a0dc29d068f3a0d",
+    "url": "/gaming_analytics/static/css/main.55e11fcc.chunk.css"
   },
   {
     "revision": "e3a6279dfa6ad43bae2a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gaming_analytics/static/js/2.2bef1558.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df07fea103bde9fcb70a",
+    "revision": "1d2a9a0dc29d068f3a0d",
     "url": "/gaming_analytics/static/js/main.b1f0b936.chunk.js"
   },
   {
