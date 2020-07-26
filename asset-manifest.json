@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gaming_analytics/static/css/main.6e69fbc4.chunk.css",
+    "main.js": "/gaming_analytics/static/js/main.b1f0b936.chunk.js",
+    "main.js.map": "/gaming_analytics/static/js/main.b1f0b936.chunk.js.map",
+    "runtime-main.js": "/gaming_analytics/static/js/runtime-main.ccd969e3.js",
+    "runtime-main.js.map": "/gaming_analytics/static/js/runtime-main.ccd969e3.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/gaming_analytics/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2bef1558.chunk.js": "/gaming_analytics/static/js/2.2bef1558.chunk.js",
+    "static/js/2.2bef1558.chunk.js.map": "/gaming_analytics/static/js/2.2bef1558.chunk.js.map",
+    "index.html": "/gaming_analytics/index.html",
+    "precache-manifest.c92a01ffee5f46b899fc35f150291a9a.js": "/gaming_analytics/precache-manifest.c92a01ffee5f46b899fc35f150291a9a.js",
+    "service-worker.js": "/gaming_analytics/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/gaming_analytics/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6e69fbc4.chunk.css.map": "/gaming_analytics/static/css/main.6e69fbc4.chunk.css.map",
+    "static/js/2.2bef1558.chunk.js.LICENSE.txt": "/gaming_analytics/static/js/2.2bef1558.chunk.js.LICENSE.txt",
+    "static/media/data.csv": "/gaming_analytics/static/media/data.79dc85dd.csv",
+    "static/media/logo.png": "/gaming_analytics/static/media/logo.5ea61021.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd969e3.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2bef1558.chunk.js",
+    "static/css/main.6e69fbc4.chunk.css",
+    "static/js/main.b1f0b936.chunk.js"
+  ]
+}
